@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>The Journey</title>
-        <link rel="stylesheet" href="assets/css/style.css">
-    </head>
+<?php include "../components/header.php"; ?>
+
     <body style="background-image: url('assets/img/asgard.jpg'); background-size: cover; color: white; text-shadow: 2px 2px 4px black;">
         <img src="/page/assets/img/atreus.png" alt="Atreus" class="character-right">
         <h1>The Path to Ragnarok</h1>
@@ -24,5 +18,5 @@
         ?>
 
         <a href="../index.php" class="enter-realm">Return to Midgard</a>
-    </body>
-</html>
+
+<?php include "../components/footer.php"; ?>

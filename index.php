@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>God of War: Ragnarok - Home</title>
-        <link rel="stylesheet" href="assets/css/style.css">
-    </head>
+<?php include "components/header.php"; ?>
+
     <body style="background-image: url('assets/img/midgard.jpg'); background-size: cover; color: white; text-shadow: 2px 2px 4px black;">
         <img src="assets/img/kratos.png" alt="Kratos" class="character-left">
         <h1>Welcome, Warrior!</h1>
@@ -38,5 +32,5 @@
         ?>
 
         <a href="page/index.php" class="enter-realm">Enter the Realm</a>
-    </body>
-</html>
+
+<?php include "components/footer.php"; ?>

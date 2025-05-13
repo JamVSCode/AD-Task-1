@@ -10,8 +10,8 @@
         <header class="site-header">
             <img src="assets/img/ragnarok-logo.png" alt="God of War: Ragnarok Logo" class="logo">
             <nav>
-                <a href="index.php">Home</a>
-                <a href="page/index.php">Journey</a>
+                <a href="/index.php">Home</a>
+                <a href="/page/index.php">Journey</a>
             </nav>
         </header>
     </body>
