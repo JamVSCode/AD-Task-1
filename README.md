@@ -6,6 +6,7 @@ Welcome to the **God of War: Ragnarok Themed Project**, a website that demonstra
 
 ## 🏗️ Project Structure
 
+```
 AD-Task-1/
 ├── assets/
 │   ├── css/
@@ -30,6 +31,7 @@ AD-Task-1/
 ├── .gitignore
 ├── index.php  (Homepage)
 ├── readme.md  (This file)
+```
 
 ---
 
