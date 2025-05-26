@@ -1,4 +1,4 @@
-<?php include "components/header.php"; ?>
+<?php include "./components/header.php"; ?>
 
     <body style="background-image: url('assets/img/midgard.jpg'); background-size: cover; color: white; text-shadow: 2px 2px 4px black;">
         <img src="assets/img/kratos.png" alt="Kratos" class="character-left">
@@ -33,4 +33,4 @@
 
         <a href="page/index.php" class="enter-realm">Enter the Realm</a>
 
-<?php include "components/footer.php"; ?>
+<?php include "./components/footer.php"; ?>
