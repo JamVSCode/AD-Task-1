@@ -1,0 +1,10 @@
+{
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andres, Baron",
+            "email": "test@gmail.com"
+        }
+    ],
+    "require": {}
+}
