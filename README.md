@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/ragnarok-logo.png" alt="Nyebe" width="200" height="100">
+    <img src="./assets/img/ragnarok-logo.png" alt="Nyebe" width="375" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">God of War: Ragnarok Themed Project</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  (AD-Task-1)
 </div>
 
 <br />
@@ -21,9 +21,9 @@
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/AD-CI4-Template-Project)
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJamVSCode%2FAD-Task-1&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime](https://wakatime.com/badge/user/018ee989-e542-4dcd-a299-7e936489a16f/project/a496fdba-2b5e-476d-95b2-4c2d2e75dd46.svg)](https://wakatime.com/badge/user/018ee989-e542-4dcd-a299-7e936489a16f/project/a496fdba-2b5e-476d-95b2-4c2d2e75dd46)
 
 ---
 
@@ -61,15 +61,16 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 
-Description of the project in details.
+Welcome to the **God of War: Ragnarok Themed Project**, a website that demonstrates the basics of programming with the aesthetic and design from God of War: Ragnarok.
 
 ### Key Components
 
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 
-- Authentication & Authorization
-- CRUD Operations for Invetory System
+- **Dynamic Header & Footer**
+- **Styled Buttons & Navigation**
+- **Declaration, Conditional, and Loop Code**
 
 ### Technology
 
@@ -112,40 +113,35 @@ Description of the project in details.
 10. File Structure to follow below.
 
 ```
-AD-ProjectName
-└─ assets
-|   └─ css
-|   |   └─ name.css
-|   └─ img
-|   |   └─ name.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ name.js
-└─ components
-|   └─ name.component.php
-|   └─ templates
-|      └─ name.component.php
-└─ handlers
-|   └─ name.handler.php
-└─ pages
-|  └─ pageName
-|     └─ assets
-|     |  └─ css
-|     |  |  └─ name.css
-|     |  └─ img
-|     |  |  └─ name.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ name.js
-|     └─ index.php
-└─ utils
-|   └─ name.utils.php
-└─ vendor
-└─ .gitignore
-└─ bootstrap.php
-└─ composer.json
-└─ composer.lock
-└─ index.php
-└─ readme.md
-└─ router.php
+AD-Task-1/
+├── assets/
+│   ├── css/
+│   │   ├── styles.css  (Norse styling)
+│   ├── img/
+│   │   ├── gow-logo.png  (Game logo)
+│   │   ├── midgard.jpg  (Homepage background)
+│   │   ├── asgard.jpg  (Journey page background)
+│   │   ├── kratos.png  (Kratos standing image)
+│   │   ├── atreus.png  (Atreus standing image)
+│   ├── js/
+├── components/
+│   ├── header.php  (Displays the logo and navigation)
+│   ├── footer.php  (Page footer with copyright details)
+├── pages/
+│   ├── assets/
+│   │   ├── css/
+│   │   ├── img/
+│   │   ├── js/
+│   ├── index.php  (Journey Page)
+├── utils/
+├── vendor
+├── .gitignore
+├── bootstrap.php
+├── composer.json
+├── composer.lock
+├── index.php  (Homepage)
+├── readme.md  (This file)
+├── router.php
 ```
 > The following should be renamed: name.css, name.js, name.jpeg/.jpg/.webp/.png, name.component.php(but not the part of the `component.php`), Name.utils.php(but not the part of the `utils.php`)
 
